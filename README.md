@@ -8,7 +8,7 @@
 - 🔭 I’m currently working at [Pi Consulting Services Ltd](https://www.pycs.co.ke/) and on open sources projects
 - 🌱 I’m currently learning advanced concepts of [.Net Solution architectures](https://dotnet.microsoft.com/en-us/learntocode/) and its ecosystem of frameworks and components
 - 👯 I’m looking to collaborate and contribute on Open source projects like [dotnet](https://github.com/microsoft/dotnet/)
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with the 'Hello World!'
 - 💬 Ask me about [.Net C#](https://dotnet.microsoft.com/en-us/learntocode/), [Kotlin](https://developer.android.com/kotlin/androidbasics/) etc
 - 📫 How to reach me: [githithudanjsef@hotmail.com](mailto:githithudanjsef@hotmail.com)
 - 😄 Pronouns: He/Him
